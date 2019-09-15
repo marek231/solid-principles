@@ -6,5 +6,5 @@ therefore, *they are a tool, not a goal*.
 - [ ] Single Responsibility Principle
 - [ ] Open-Closed Principle
 - [ ] Liskov Substitution Principle
-- [ ] Interface Segregation Principle
+- [x] Interface Segregation Principle
 - [ ] Dependency Inversion Principle
