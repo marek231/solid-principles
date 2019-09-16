@@ -7,4 +7,4 @@ therefore, *they are a tool, not a goal*.
 - [ ] Open-Closed Principle
 - [ ] Liskov Substitution Principle
 - [x] Interface Segregation Principle
-- [ ] Dependency Inversion Principle
+- [x] Dependency Inversion Principle
